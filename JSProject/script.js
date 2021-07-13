@@ -1,50 +1,50 @@
 let cards = [{
-    image: "https://earlpittsamerican.com/wp-content/uploads/2014/05/thor.png",
+    image: "https://image.shutterstock.com/image-vector/cute-boy-show-confused-expression-260nw-1918428074.jpg",
     value: 1,
     status: "closed"
 },
 {
-    image: "https://earlpittsamerican.com/wp-content/uploads/2014/05/thor.png",
+    image: "https://image.shutterstock.com/image-vector/cute-kid-welcomevector-illustration-600w-514865776.jpg",
     value: 1,
     status: "closed"
 },
 {
-    image: "https://i.pinimg.com/originals/d7/bd/93/d7bd934adc5e5a50da570cb1bc98e946.jpg",
+    image: "https://image.shutterstock.com/image-vector/person-cartoon-cute-female-600w-1549170071.jpg",
     value: 2,
     status: "closed"
 },
 {
-    image: "https://i.pinimg.com/originals/d7/bd/93/d7bd934adc5e5a50da570cb1bc98e946.jpg",
+    image: "https://image.shutterstock.com/image-vector/kid-doing-experiments-liquids-chemistry-600w-631622963.jpg",
     value: 2,
     status: "closed"
 },
 {
-    image: "https://i.pinimg.com/564x/9b/76/75/9b767505f5a5df3df348a898ba4ae8bb.jpg",
+    image: "https://image.shutterstock.com/image-vector/kid-walking-schoolback-schoolvector-illustration-600w-717483322.jpg",
     value: 3,
     status: "closed"
 },
 {
-    image: "https://i.pinimg.com/564x/9b/76/75/9b767505f5a5df3df348a898ba4ae8bb.jpg",
+    image: "https://image.shutterstock.com/image-vector/little-cute-boy-car-kid-600w-1722314899.jpg",
     value: 3,
     status: "closed"
 },
 {
-    image: "https://i.redd.it/qnc5fta5kxs61.png",
+    image: "https://image.shutterstock.com/image-illustration/cute-cartoon-little-kid-bunny-600w-1872808438.jpg",
     value: 4,
     status: "closed"
 },
 {
-    image: "https://i.redd.it/qnc5fta5kxs61.png",
+    image: "https://image.shutterstock.com/image-vector/cute-boy-standing-position-showing-600w-593080241.jpg",
     value: 4,
     status: "closed"
 },
 {
-    image: "https://i.pinimg.com/originals/24/66/63/2466631aded1e3fa9ab21b44142577b6.jpg",
+    image: "https://image.shutterstock.com/image-vector/cute-kid-welcomevector-illustration-600w-514865776.jpg",
     value: 5,
     status: "closed"
 },
 {
-    image: "https://i.pinimg.com/originals/24/66/63/2466631aded1e3fa9ab21b44142577b6.jpg",
+    image: "https://image.shutterstock.com/image-vector/cute-boy-welcomevector-illustration-600w-659138983.jpg",
     value: 5,
     status: "closed"
 },]
